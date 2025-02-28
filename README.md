@@ -43,3 +43,4 @@ It uses the [particle-usb](https://github.com/particle-iot/particle-usb) package
 The example code uses jQuery to simplify the user interface implementation, but the actual Wi-Fi setup does not require any framework.
 
 This example cannot be used on node.js. However, it could be adapted because particle-usb works both in browser and in node.js.
+# Terracore-Wifi-Setup
